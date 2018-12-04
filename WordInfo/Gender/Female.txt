@@ -22,12 +22,12 @@ balle de fusil d'assaut
 balle de fusil de précision
 balle de lance-charges
 balle de minigun
+balle de mini-tourelle
 balle de mitrailleuse légère
 balle de mitrailleuse lourde
 balle de pistolet automatique
 balle de pistolet-mitrailleur
 balle de revolver
-balle de mini-tourelle
 balle incendiaire
 bande de pirates
 barrière de béton antique
@@ -37,6 +37,10 @@ base de faction détruite
 batterie
 batterie (nouvel emplacement)
 batterie (plan)
+bébé étagne
+bébés étagnes
+biche
+biches
 bière
 bile
 boomalope
@@ -44,13 +48,13 @@ boomalopes
 caisse à outils
 caisse à outils (nouvel emplacement)
 caisse à outils (plan)
-capsule d'hypersommeil
-capsule d'hypersommeil (plan)
 capsule de largage
 capsule de largage (en approche)
 capsule de largage (en partance)
 capsule de transport
 capsule de transport (plan)
+capsule d'hypersommeil
+capsule d'hypersommeil (plan)
 capsules de transport
 carabine de survie
 caravane
@@ -63,8 +67,18 @@ chaise
 chaise (nouvel emplacement)
 chaise (plan)
 charge de blaster lourd
+chasseuse
+chasseuses
+chatonne
+chatonnes
+chatte
+chattes
+cheffe
+cheffes
 coiffe tribale
 colonne vertébrale bionique
+commerçante
+commerçantes
 commode
 commode (nouvel emplacement)
 commode (plan)
@@ -96,6 +110,8 @@ dents
 diabétoffe
 dinde
 dindes
+éléphante
+éléphantes
 embuscade
 éolienne
 éolienne (plan)
@@ -103,8 +119,17 @@ embuscade
 étagère
 étagère (nouvel emplacement)
 étagère (plan)
+étagne
+étagnes
 étincelle
 explosion
+faonne
+faonne gazelle
+faonnes
+faonnes gazelles
+femme en noir
+femme sauvage
+femmes sauvages
 feuilles de psychoïde
 feuilles de smokeleaf
 flaque de chemfuel
@@ -113,30 +138,49 @@ flèche d'arc composite
 fonderie électrique
 fonderie électrique (plan)
 fourrure bleue
-fourrure d'ours
 fourrure de chien
 fourrure de chinchilla
 fourrure de loup
 fourrure de panthère
 fourrure de renard
 fourrure de thrumbo
+fourrure d'ours
 fourrure épaisse
 fumée
 gazelle
-gazelles
 gazelle juvénile
+gazelles
+gazelles juvéniles
 gelée d'insecte
+génisse muffalo
+génisses muffalos
 glume lumineuse
 glume lumineuse (plan)
+gorette
+gorettes
 grande sculpture
 grande sculpture (plan)
 grenade à fragmentation
 grenade emp
+grenadière
+grenadière - emp
+grenadières
+grenadières - emp
 griffe droite
 griffe énergétique
 griffe gauche
 griffes
 guenille de sauvage
+guenon
+guenons
+guenuche
+guenuches
+guerrière
+guerrières
+hase
+hase des neiges
+hases
+hases des neiges
 hautes herbes
 herbe à foin
 herbes folles
@@ -146,35 +190,89 @@ jade
 jambe archotech
 jambe bionique
 jeune autruche
+jeune biche
 jeune boomalope
+jeune chatte
+jeune dinde
+jeune éléphante
+jeune étagne
+jeune guenon
+jeune hase
+jeune hase des neiges
+jeune laie
+jeune louve arctique
+jeune louve des bois
 jeune mégaraignée
+jeune ourse polaire
 jeune panthère
+jeune rate
+jeune renarde arctique
+jeune renarde rousse
+jeunes autruches
+jeunes biches
+jeunes boomalopes
+jeunes chattes
+jeunes dindes
+jeunes éléphantes
+jeunes étagnes
+jeunes guenons
+jeunes hases
+jeunes hases des neiges
+jeunes laies
+jeunes louves arctiques
+jeunes louves des bois
+jeunes mégaraignées
+jeunes ourses polaires
+jeunes panthères
+jeunes rates
+jeunes renardes arctiques
+jeunes renardes rousses
+jeunes tortues
+jeunes vaches
 jeune tortue
+jeune vache
 la base
 la bouteille
 la branche
 la hampe
-la lame
-la poignée
-la pointe
-la tête
+laie
+laies
 laine d'alpaga
 laine de mégathérium
 laine de muffalo
+la lame
 lame droite
 lame gauche
 lampe horticole
 lampe horticole (nouvel emplacement)
 lampe horticole (plan)
 lance
+la poignée
+la pointe
+la tête
+louve arctique
+louve des bois
+louves arctiques
+louves des bois
 machinerie compactée
 mandibules
+marchande
+marchandes
 masse
 massue
 mégaraignée
 mégaraignées
+mercenaire - cogneuse
+mercenaire lourde
+mercenaire - mitrailleuse
+mercenaires - cogneuses
+mercenaires lourdes
+mercenaires - mitrailleuses
 météorite (en approche)
 mignonnes petites dents
+mini-tourelle
+mini-tourelle (construction)
+mini-tourelle (plan)
 mitrailleuse légère
 mitrailleuse lourde
 moquette bleue (plan)
@@ -194,32 +292,58 @@ neutroamine
 nouvelle tribu
 ogive à antimatière
 oreille bionique
+ourse polaire
+ourses polaires
+oursonne polaire
+oursonnes polaires
 panthère
 panthères
 pâte nutritive
 peau humaine
+pénitente
+pénitentes
 petite sculpture
 petite sculpture (plan)
 pile vanométrique
 pile vanométrique (plan)
+pillarde
+pillardes
 pommes de terre
 pompe à eau
 pompe à eau (plan)
 porte
-porte (plan)
 porte automatique
 porte automatique (plan)
+porte (plan)
+poule
+poules
+poulette
+poulettes
 prothèse auditive
 prothèse cardiaque
 prothèse de bras
 prothèse de jambe
+provocatrice
+provocatrices
 racine de vie
 racine de vie sauvage
 raffinerie
 raffinerie (construction)
 raffinerie (plan)
 rafflesia géante
+rate
+rates
 rations de survie
+ratonne
+ratonnes
+réfugiée de l'espace
+réfugiées de l'espace
+renarde arctique
+renarde rousse
+renardes arctiques
+renardes rousses
+représentante
+représentantes
 roquette
 roquette apocalyptique
 rose
@@ -230,6 +354,8 @@ sculpture
 sculpture inachevée
 sculpture monumentale
 sculpture monumentale (plan)
+soldate de l'espace
+soldates de l'espace
 table (1x2)
 table (1x2) (nouvel emplacement)
 table (1x2) (plan)
@@ -242,12 +368,12 @@ table (2x4) (plan)
 table (3x3)
 table (3x3) (nouvel emplacement)
 table (3x3) (plan)
-table d'échecs
-table d'échecs (nouvel emplacement)
-table d'échecs (plan)
 table de billard
 table de billard (nouvel emplacement)
 table de billard (plan)
+table d'échecs
+table d'échecs (nouvel emplacement)
+table d'échecs (plan)
 table de nuit
 table de nuit (nouvel emplacement)
 table de nuit (plan)
@@ -275,11 +401,10 @@ tourelle autocanon
 tourelle autocanon ( plan)
 tourelle de précision
 tourelle de tireur d'élite (plan)
-mini-tourelle
-mini-tourelle (construction)
-mini-tourelle (plan)
 tribu indigène pacifique
 tribu indigène sauvage
+truie
+truies
 une armature de vaisseau
 une balise de commerce orbital
 une batterie
@@ -295,7 +420,6 @@ une pompe à eau
 une porte
 une porte automatique
 une table d'échecs
-une table de billard
 une table de poker
 une télévision cathodique
 une tombe
@@ -306,18 +430,18 @@ une zone de fête
 une zone de mariage
 vache
 vaches
+vagabonde
+vagabondes
+velle
+velle muffalo
+velles
+velles muffalos
 ventilation
 ventilation (plan)
 veste
 veste renforcée
 viande d'alpaga
 viande d'alphacastor
-viande d'écureuil
-viande d'éléphant
-viande d'iguane
-viande d'insecte ogm
-viande d'oiseau
-viande d'ours
 viande de bœuf
 viande de boomalope
 viande de bouquetin
@@ -328,11 +452,13 @@ viande de chat
 viande de chinchilla
 viande de cobra
 viande de cougar
+viande d'écureuil
 viande de dinde
 viande de dromadaire
 viande de gazelle
 viande de husky
 viande de labrador
+viande d'éléphant
 viande de lièvre
 viande de loup
 viande de lynx
@@ -352,6 +478,12 @@ viande de tortue
 viande de wapiti
 viande de warg
 viande de yorkshire terrier
+viande d'iguane
+viande d'insecte ogm
+viande d'oiseau
+viande d'ours
+villageoise
+villageoises
 zone de chargement de la caravane
 zone de chargement de la caravane (plan)
 zone de fête

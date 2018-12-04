@@ -3,19 +3,21 @@ agarilux
 agave
 alocasia
 alpaga
+alpagas
 alphacastor
+alphacastors
 arbre brûlé
 arbrisseaux
 arc composite
 arc court
-arc long
 archer
 archer lourd
+arc long
 argent
-artefact d'impulsion animale
-artefact d'impulsion calmante
 artefact de folie
 artefact de perturbation psychique
+artefact d'impulsion animale
+artefact d'impulsion calmante
 astronaute
 astronaute hostile
 astronautes
@@ -52,7 +54,36 @@ bébé panthère
 bébé rataboum
 bébé raton laveur
 bébé rhinocéros
+bébés alpagas
+bébés alphacastors
+bébés autruches
+bébés boomalopes
+bébés bouquetins
+bébés capybaras
+bébés caribous
+bébés casoars
+bébés chinchillas
+bébés cobras
+bébés cougars
+bébés dromadaires
+bébés écureuils
+bébés émeus
+bébés fennecs
+bébés grizzlys
+bébés iguanes
+bébés lynx
+bébés mégaraignées
+bébés mégascarabées
+bébés mégathériums
+bébés panthères
 bébé spélopède
+bébés rataboums
+bébés ratons laveurs
+bébés rhinocéros
+bébés spélopèdes
+bébés thrumbos
+bébés tortues
+bébés wapitis
 bébé thrumbo
 bébé tortue
 bébé wapiti
@@ -73,6 +104,7 @@ bonnet
 bouclier d'énergie
 bouleau
 bouquetin
+bouquetins
 bovin
 box pour petits animaux
 box pour petits animaux (nouvel emplacement)
@@ -91,12 +123,6 @@ cactus saguaro
 cadavre d'alpaga
 cadavre d'alphacastor
 cadavre d'autruche
-cadavre d'écureuil
-cadavre d'éléphant
-cadavre d'émeu
-cadavre d'iguane
-cadavre d'ours polaire
-cadavre d'un chat
 cadavre de boomalope
 cadavre de bouquetin
 cadavre de capybara
@@ -108,6 +134,7 @@ cadavre de chinchilla
 cadavre de cobra
 cadavre de cochon
 cadavre de cougar
+cadavre d'écureuil
 cadavre de dinde
 cadavre de dromadaire
 cadavre de faucheur
@@ -117,6 +144,7 @@ cadavre de grizzly
 cadavre de husky
 cadavre de labrador
 cadavre de lancier
+cadavre d'éléphant
 cadavre de lièvre
 cadavre de lièvre des neiges
 cadavre de loup arctique
@@ -125,6 +153,7 @@ cadavre de lynx
 cadavre de mégaraignée
 cadavre de mégascarabée
 cadavre de mégathérium
+cadavre d'émeu
 cadavre de muffalo
 cadavre de panthère
 cadavre de poulet
@@ -143,10 +172,13 @@ cadavre de vache
 cadavre de wapiti
 cadavre de warg
 cadavre de yorkshire terrier
+cadavre d'iguane
+cadavre d'ours polaire
+cadavre d'un chat
 cadavre humain
 caisson d'hypersommeil
-caisson d'hypersommeil (plan)
 caisson d'hypersommeil antique
+caisson d'hypersommeil (plan)
 calcaire
 calcaire lissé
 canon automatique
@@ -156,11 +188,11 @@ capitaine
 capteur
 capteur (plan)
 capybara
+capybaras
 carbu-réacteur infini
 carbu-réacteur infini (plan)
 caribou
-carrelage (plan)
-carrelage (sol)
+caribous
 carrelage en ardoise (plan)
 carrelage en ardoise (sol)
 carrelage en argent (plan)
@@ -177,30 +209,43 @@ carrelage en métal (plan)
 carrelage en métal (sol)
 carrelage en or (plan)
 carrelage en or (sol)
+carrelage (plan)
+carrelage (sol)
 carrelage stérile (plan)
 carrelage stérile (sol)
 casoar
+casoars
 casque avancé
 casque de marine
 casque simple
 cecropia
 centipède
 cerf
+cerfs
 champignon cru
 chapeau de cowboy
 chapeau melon
 chapeau papier psychique
 chasseur
+chasseurs
 chat
 chaton
+chatons
+chats
 chef
 chef berserker
+chefs
 chemfuel
 chemise
 chêne
 chinchilla
+chinchillas
 chiot husky
 chiot labrador
+chiots huskys
+chiots labradors
+chiots wargs
+chiots yorkshire terriers
 chiot warg
 chiot yorkshire terrier
 chocolat
@@ -208,32 +253,41 @@ climatiseur
 climatiseur (plan)
 clivia
 cobra
+cobras
 cochon
 cocktail molotov
 cœur
 cœur bionique
 colon
 colons
+commerçant
 commerçant de la ville
+commerçants
 composant
 composant avancé
 composant inachevé
 conduit étanche
 conduit étanche (plan)
+coq
+coqs
+coquelet
+coquelets
 cougar
+cougars
 couteau
 crochets à venin
 crocs acérés
 cuir
-cuir d'éléphant
-cuir d'oiseau
 cuir de chameau
 cuir de cochon
+cuir d'éléphant
 cuir de lézard
 cuir de rhinocéros
+cuir d'oiseau
 cuir fin
 cyprès
 daguet
+daguets
 débris
 débris d'acier
 débris de vaisseau
@@ -245,6 +299,8 @@ décombres
 diabledeau
 dindon
 dindonneau
+dindonneaux
+dindons
 distributeur de pâte nutritive
 distributeur de pâte nutritive (plan)
 dompte-venin
@@ -253,13 +309,19 @@ double lieu de couchage (plan)
 dragonnier
 dromadaire
 dromadaire juvénile
+dromadaires
+dromadaires juvéniles
 écureuil
+écureuils
 effondrement de pierres
 éléphant
 éléphanteau
+éléphanteaux
+éléphants
 émanateur psychique
 émanateur psychique (plan)
 émeu
+émeus
 érable
 esclave
 estomac bionique
@@ -291,11 +353,14 @@ extincteur à mousse (plan)
 faisceau d'énergie
 faon
 faon gazelle
+faons
+faons gazelles
 faucheur
 fauteuil
 fauteuil (nouvel emplacement)
 fauteuil (plan)
 fennec
+fennecs
 feu
 feu de camp
 feu de camp (plan)
@@ -325,8 +390,10 @@ geyser
 gilet pare-balles
 glaive
 go-juice
-granit lissé
+goret
+gorets
 granite
+granit lissé
 gravats - ardoise
 gravats - calcaire
 gravats - granite
@@ -335,18 +402,27 @@ gravats - marbre
 gravats rocheux
 grenadier
 grenadier - emp
+grenadiers
+grenadiers - emp
 grès
 grès lissé
 grizzly
+grizzlys
 groupe électrogène
 groupe électrogène (plan)
 guerrier
+guerriers
+homme en noir
 homme sauvage
+hommes sauvages
 houblon
 humain
 husky
+huskys
 iguane
 iguane juvénile
+iguanes
+iguanes juvéniles
 ikwa
 implant analgésique
 implant du bonheur
@@ -391,11 +467,47 @@ jeune poulet
 jeune rat
 jeune rataboum
 jeune raton laveur
+jeune rats
 jeune renard arctique
 jeune renard roux
+jeunes alpagas
+jeunes alphacastors
 jeune sanglier
+jeunes bouquetins
+jeunes capybaras
+jeunes caribous
+jeunes casoars
+jeunes chats
+jeunes chinchillas
+jeunes cobras
+jeunes cougars
+jeunes dindons
+jeunes écureuils
+jeunes éléphants
+jeunes émeus
+jeunes fennecs
+jeunes grizzlys
+jeunes huskys
 jeune singe
+jeunes labradors
+jeunes lièvres
+jeunes lièvres des neiges
+jeunes loups des bois
+jeunes lynx
+jeunes mégascarabées
+jeunes mégathériums
+jeunes ours polaires
 jeune spélopède
+jeunes rataboums
+jeunes ratons laveurs
+jeunes renards arctiques
+jeunes sangliers
+jeunes singes
+jeunes spélopèdes
+jeunes thrumbos
+jeunes wapitis
+jeunes wargs
+jeunes yorkshire terriers
 jeune thrumbo
 jeune wapiti
 jeune warg
@@ -404,6 +516,7 @@ joint de smokeleaf
 laboratoire chimique
 laboratoire chimique (plan)
 labrador
+labradors
 lait
 lampadaire
 lampadaire (bleu)
@@ -418,11 +531,11 @@ lampadaire (vert)
 lampadaire (vert) (nouvel emplacement)
 lampadaire (vert) (plan)
 lance-charges
-lance-roquettes apocalyptique
-lance-roquettes triple
 lancer grenade à fragmentation
 lancer grenade emp
 lancer molotov
+lance-roquettes apocalyptique
+lance-roquettes triple
 lanceur de balles incendiaires
 lanceur de capsules
 lanceur de capsules (plan)
@@ -431,10 +544,12 @@ le canon
 le goulot
 le magasin
 le manche
-le tranchant
 les canons
+le tranchant
 levraut
 levraut des neiges
+levrauts
+levrauts des neiges
 lieu d'assemblage
 lieu d'assemblage (plan)
 lieu de couchage
@@ -443,16 +558,18 @@ lieu de dépeçage
 lieu de dépeçage (plan)
 lièvre
 lièvre des neiges
+lièvres
+lièvres des neiges
 liquide amniotique
 lit
-lit (nouvel emplacement)
-lit (plan)
 lit double
 lit double (nouvel emplacement)
 lit double (plan)
 lit médicalisé
 lit médicalisé (nouvel emplacement)
 lit médicalisé (plan)
+lit (nouvel emplacement)
+lit (plan)
 lit pour animaux
 lit pour animaux (nouvel emplacement)
 lit pour animaux (plan)
@@ -461,8 +578,12 @@ lit royal (nouvel emplacement)
 lit royal (plan)
 loup arctique
 loup des bois
+loups arctiques
+loups des bois
 louveteau arctique
 louveteau des bois
+louveteaux arctiques
+louveteaux des bois
 luciferium
 lynx
 lys
@@ -471,7 +592,9 @@ manteau
 marbre
 marbre lissé
 marcassin
+marcassins
 marchand
+marchands
 marqueur
 masque de guerre
 mécanoïde
@@ -482,13 +605,18 @@ mech-sérum neuro-entraîneur
 médicaments
 médicaments avancés
 mégascarabée
+mégascarabées
 mégathérium
+mégathériums
 membre
 mercenaire - cogneur
-mercenaire - mitrailleur
-mercenaire - sniper
 mercenaire d'élite
 mercenaire lourd
+mercenaire - mitrailleur
+mercenaires - cogneurs
+mercenaires lourds
+mercenaires - mitrailleurs
+mercenaire - sniper
 métal compacté
 mildiou
 minerai d'argent
@@ -508,6 +636,7 @@ mortier (plan)
 moût
 muffalo
 muffalo juvénile
+muffalos
 multi-analyseur
 multi-analyseur (nouvel emplacement)
 multi-analyseur (plan)
@@ -528,17 +657,19 @@ obus incendiaire
 œil archotech
 œil bionique
 œuf d'autruche (fécondé)
-œuf d'émeu (fécondé)
-œuf d'iguane (fécondé)
 œuf de casoar (fécondé)
 œuf de cobra (fécondé)
 œuf de dinde (fécondé)
+œuf d'émeu (fécondé)
 œuf de poule (fécondé)
 œuf de poule (non fécondé)
 œuf de tortue (fécondé)
+œuf d'iguane (fécondé)
 or
-ours polaire
 ourson polaire
+oursons polaires
+ours polaire
+ours polaires
 palmier
 panneau solaire
 panneau solaire (plan)
@@ -550,6 +681,7 @@ parquet (sol)
 patchwork
 pemmican
 pénitent
+pénitents
 penoxycyline
 peuplier
 pied droit
@@ -557,9 +689,9 @@ pied gauche
 pieds-brillants
 piège à antimatière improvisé
 piège à antimatière improvisé (plan)
-piège à pointes
 piège anti-incendie improvisé
 piège anti-incendie improvisé (plan)
+piège à pointes
 piège emp improvisé
 piège emp improvisé (plan)
 piège explosif improvisé
@@ -568,6 +700,7 @@ piège incendiaire improvisé
 piège incendiaire improvisé (plan)
 pila
 pillard
+pillards
 pilum (lancé)
 pin
 piquet de fer à cheval
@@ -577,7 +710,6 @@ pirate
 pirates
 pissenlit
 pistolet automatique
-pistolet de mini-tourelle
 pistolet-mitrailleur
 plant de coton
 plant de fraisier
@@ -589,18 +721,19 @@ plant de riz
 plant de smokeleaf
 plastacier
 plastacier compacté
-plat gastronomique
-plat raffiné
-plat simple
 plateau de jeu de ur
 plateau du jeu de ur (construction)
 plateau du jeu de ur (plan)
+plat gastronomique
+plat raffiné
+plat simple
 poils de chameau
 poing droit
 poing gauche
 pont (construction)
 pont (plan)
 porcelet
+porcelets
 poste basique de recherche
 poste basique de recherche (plan)
 poste hi-tech de recherche
@@ -612,74 +745,99 @@ poulet
 poumon
 pourparlers de paix
 poussin
+poussins
 propulseur de vaisseau
 propulseur de vaisseau (plan)
 provocateur
+provocateurs
 radiateur
 radiateur (plan)
 rat
 rataboum
+rataboums
 raton
 raton laveur
+ratons
+ratons laveurs
+rats
 réacteur de vaisseau
 réacteur de vaisseau (plan)
 refroidisseur passif
 refroidisseur passif (plan)
 réfugié de l'espace
+réfugiés de l'espace
 rein
 renard arctique
-renard roux
 renardeau arctique
 renardeau roux
+renardeaux arctiques
+renardeaux roux
+renard roux
+renards arctiques
+renards roux
 représentant
+représentants
 réservoir
 réservoir (plan)
 réverbère antique
 revolver
 rhinocéros
 rhinocéros juvénile
+rhinocéros juvéniles
 riz
 roncier
 sable
 sabot droit
 sabot gauche
 sac de couchage
-sac de couchage (nouvel emplacement)
-sac de couchage (plan)
 sac de couchage double
 sac de couchage double (nouvel emplacement)
 sac de couchage double (plan)
+sac de couchage (nouvel emplacement)
+sac de couchage (plan)
 sacs de sable
-sacs de sable (plan)
 sacs de sable éventrés
+sacs de sable (plan)
 sang
 sang d'insecte
 sanglier
+sangliers
 sarcophage
 sarcophage (plan)
 saule pleureur
 scanner géologique
-scanner géologique (plan)
 scanner géologique à longue portée
 scanner géologique à longue portée (plan)
+scanner géologique (plan)
 signal action - embuscade
 signal action - message
 singe
+singes
 singeteau
+singeteaux
 soldat de l'espace
+soldats de l'espace
 spélopède
+spélopèdes
 synthé
 système de visée de bombardement orbital
-t-shirt
 tabouret
 tabouret (nouvel emplacement)
 tabouret (plan)
+taureau
+taureaux
+taurillon
+taurillon muffalo
+taurillons
+taurillons muffalos
 teck
 télescope
 télescope (nouvel emplacement)
 thé pekoe
 thrumbo
+thrumbos
 tissu
+t-shirt
 tunnel
 un box pour petits animaux
 un câble électrique
@@ -721,16 +879,24 @@ un scanner géologique à longue portée
 un tabouret
 uranium
 vagabond
+vagabonds
 vaisseau spatial de secours
 vase
 veau
 veau muffalo
+veaux
+veaux muffalos
+verrat
+verrats
 vêtement inachevé
 villageois
 voile de guerre
 vomi
 wake-up
 wapiti
+wapitis
 warg
+wargs
 yayo
 yorkshire terrier
+yorkshire terriers

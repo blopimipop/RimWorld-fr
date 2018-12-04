@@ -1,10 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- NOTE: 
+    For <AnimalInsanitySingle>, ANIMAL_gender does not fit when
+    dealing with epicene words in french. Thus the use of 0_gender.
+    See DefInjected/PawnKindDef/Races_*.xml without <X.labelMale> or <X.labelFemale>.
+  
+    Ex. "autruche", "boomalope", "dinde", "gazelle",
+    "mégaraignée", "panthère", "tortue", "vache" (singular or plural) 
+    are always gendered female in french.
+  
+    MAKE SURE these words and their plurals are included in WordInfo/Gender/Female.txt. 
+  -->
+  
   <!-- EN: Mad {ANIMAL_labelShort} -->
-  <LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort} enrag{ANIMAL_gender ? é : ée : é(e)}</LetterLabelAnimalInsanitySingle>
+  <!--   <LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort} enrag{ANIMAL_gender ? é : ée : é(e)}</LetterLabelAnimalInsanitySingle> -->
+  <LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort} enrag{0_gender ? é : ée : é(e)}</LetterLabelAnimalInsanitySingle>
   <!-- EN: A local {ANIMAL_label} has gone mad. It will attack everyone it sees. -->
-  <AnimalInsanitySingle>{ANIMAL_gender ? Un : Une : Un(e)} {ANIMAL_label} loca{ANIMAL_gender ? l : le : l(e)} est deven{ANIMAL_gender ? u : ue : u(e)} enrag{ANIMAL_gender ? é : ée : é(e)}. {ANIMAL_pronoun} attaquera à vue n'importe qui.</AnimalInsanitySingle>
+  <!--   <AnimalInsanitySingle>{ANIMAL_gender ? Un : Une : Un(e)} {ANIMAL_label} loca{ANIMAL_gender ? l : le : l(e)} est deven{ANIMAL_gender ? u : ue : u(e)} enrag{ANIMAL_gender ? é : ée : é(e)}. {ANIMAL_pronoun} attaquera à vue n'importe qui.</AnimalInsanitySingle> -->
+  <AnimalInsanitySingle>{0_gender ? Un : Une : Un(e)} {ANIMAL_label} loca{0_gender ? l : le : l(e)} est deven{0_gender ? u : ue : u(e)} enrag{0_gender ? é : ée : é(e)}. {0_pronoun} attaquera à vue n'importe qui.</AnimalInsanitySingle>
   <!-- EN: Mad {0} -->
   <LetterLabelAnimalInsanityMultiple>{0} enrag{0_gender ? és : ées : é(e)s} !</LetterLabelAnimalInsanityMultiple>
   <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->

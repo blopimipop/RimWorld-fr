@@ -3,12 +3,20 @@
   
   <!-- EN: alpaca -->
   <Alpaca.label>alpaga</Alpaca.label>
+  <Alpaca.labelMale>alpaga</Alpaca.labelMale>
+  <Alpaca.labelMalePlural>alpagas</Alpaca.labelMalePlural>
   <Alpaca.labelPlural>alpagas</Alpaca.labelPlural>
   <Alpaca.lifeStages.0.label>bébé alpaga</Alpaca.lifeStages.0.label>
+  <Alpaca.lifeStages.0.labelMale>bébé alpaga</Alpaca.lifeStages.0.labelMale>
+  <Alpaca.lifeStages.0.labelMalePlural>bébés alpagas</Alpaca.lifeStages.0.labelMalePlural>
   <Alpaca.lifeStages.0.labelPlural>bébés alpagas</Alpaca.lifeStages.0.labelPlural>
   <Alpaca.lifeStages.1.label>jeune alpaga</Alpaca.lifeStages.1.label>
+  <Alpaca.lifeStages.1.labelMale>jeune alpaga</Alpaca.lifeStages.1.labelMale>
+  <Alpaca.lifeStages.1.labelMalePlural>jeunes alpagas</Alpaca.lifeStages.1.labelMalePlural>
   <Alpaca.lifeStages.1.labelPlural>jeunes alpagas</Alpaca.lifeStages.1.labelPlural>
   <Alpaca.lifeStages.2.label>alpaga</Alpaca.lifeStages.2.label>
+  <Alpaca.lifeStages.2.labelMale>alpaga</Alpaca.lifeStages.2.labelMale>
+  <Alpaca.lifeStages.2.labelMalePlural>alpagas</Alpaca.lifeStages.2.labelMalePlural>
   <Alpaca.lifeStages.2.labelPlural>alpagas</Alpaca.lifeStages.2.labelPlural>
   
   <!-- EN: chicken -->
@@ -22,6 +30,8 @@
   <Chicken.labelPlural>poulets</Chicken.labelPlural>
   <!-- EN: chick -->
   <Chicken.lifeStages.chick.label>poussin</Chicken.lifeStages.chick.label>
+  <Chicken.lifeStages.chick.labelMale>poussin</Chicken.lifeStages.chick.labelMale>
+  <Chicken.lifeStages.chick.labelMalePlural>poussins</Chicken.lifeStages.chick.labelMalePlural>
   <Chicken.lifeStages.chick.labelPlural>poussins</Chicken.lifeStages.chick.labelPlural>
   <Chicken.lifeStages.cockerel.label>jeune poulet</Chicken.lifeStages.cockerel.label>
   <Chicken.lifeStages.cockerel.labelFemale>poulette</Chicken.lifeStages.cockerel.labelFemale>
@@ -77,6 +87,8 @@
   <Pig.labelPlural>cochons</Pig.labelPlural>
   <!-- EN: piglet -->
   <Pig.lifeStages.piglet.label>porcelet</Pig.lifeStages.piglet.label>
+  <Pig.lifeStages.piglet.labelMale>porcelet</Pig.lifeStages.piglet.labelMale>
+  <Pig.lifeStages.piglet.labelMalePlural>porcelets</Pig.lifeStages.piglet.labelMalePlural>
   <Pig.lifeStages.piglet.labelPlural>porcelets</Pig.lifeStages.piglet.labelPlural>
   <Pig.lifeStages.1.label>jeune cochon</Pig.lifeStages.1.label>
   <Pig.lifeStages.1.labelFemale>gorette</Pig.lifeStages.1.labelFemale>

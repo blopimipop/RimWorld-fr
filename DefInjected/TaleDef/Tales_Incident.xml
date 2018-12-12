@@ -570,7 +570,7 @@
   -->
   <Raid.rulePack.rulesStrings>
     <li>tale_noun->Un assaut sur le/la [Community] de [PAWN_nameDef]</li>
-    <li>tale_noun->le/la  [Community] de [PAWN_nameDef] attaqué(e) par [Enemy]s</li>
+    <li>tale_noun->le/la [Community] de [PAWN_nameDef] attaqué(e) par [Enemy]s</li>
     <li>image->[Quantity_adjphrase] de [Enemy] [circumstance_phrase]</li>
     <li>image->une armée [circumstance_phrase]</li>
     <li>image->une force écrasante [circumstance_phrase]</li>

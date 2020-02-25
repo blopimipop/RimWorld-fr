@@ -34,7 +34,7 @@
   <!-- EN: Haul things -->
   <DesignatorHaulThings>Transporter</DesignatorHaulThings>
   <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
-  <DesignatorHaulThingsDesc>Marque des rochers et d'autres objets qui doivent être transportés vers les décharges. Inutile pour la nourriture ou les cadavres, qui sont habituellement transportés automatiquement par les créatures.</DesignatorHaulThingsDesc>
+  <DesignatorHaulThingsDesc>Marque des rochers et d'autres objets qui doivent être transportés vers les décharges.Inutile pour la nourriture et les cadavres, qui sont toujours transportables, s'ils n'ont pas été interdits.</DesignatorHaulThingsDesc>
   <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->
   <MustHaulHaulables>Peut seulement désigner les choses transportables mais qui ne sont pas transportées habituellement (comme les rochers).</MustHaulHaulables>
 
